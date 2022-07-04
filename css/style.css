@@ -1,0 +1,155 @@
+body{
+    background-image: url(../image/pexels-polina-zimmerman-3747505.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    background-position: center;
+}
+.ul0{
+    list-style-type: none;
+    margin:-10px;
+    padding: 0;
+    padding-right: 10px;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    float: right;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}  
+li a:hover {
+    background-color: #111;
+}
+.container,
+.row
+.h2 {
+    text-align: center;
+}
+.login-container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.login-form-1 {
+    padding: 5%;
+    background: white;
+}
+.login-form-2 {
+    padding: 5%;
+    background: rgb(30, 70, 90);
+}
+.co{
+    color: rgb(30, 70, 90);
+}
+
+.divF4,.divF0{
+    border: 2px solid black;
+    margin:2% 12% 0 33%;
+    padding: 20px 10px 30px 10px;
+    background-color: rgb(228, 227, 227);
+    width: 500px;
+    height: 650px;
+    border-radius:3%;
+}
+.h41{
+    color:rgb(30, 70, 90);
+}
+.h42{
+    color: white;
+}
+.ff{
+    width: 450px;
+}
+.aa{
+    margin-left: 38%;
+}
+.h20{
+    text-align: center;
+    color: rgb(10, 111, 179);
+}
+.h21{
+    text-align: center;
+    color: rgb(30, 70, 90);
+}
+.h22{
+    text-align: center;
+    color: rgb(10, 111, 179);
+}
+.h23{
+    text-align: center;
+    color: white;
+}
+
+.submit0{
+    margin-left: 120px;
+    width: 200px;
+    height: 40px;
+    color:white;
+    background-color:rgb(10, 111, 179);
+
+}
+.submit1{
+    margin-left: 120px;
+    width: 200px;
+    height: 40px;
+    color:white;
+    background-color:rgb(30, 70, 90);
+}
+.submit2 {
+    margin-left: 120px;
+    width: 200px;
+    height: 40px;
+    color:white;
+    background-color:rgb(10, 111, 179);
+    
+}
+.submit3{
+    margin-left: 120px;
+    width: 200px;
+    height: 40px;
+    color:rgb(30, 70, 90);
+    background-color:white;
+}
+.btnSubmit {
+    width: 50%;
+    border-radius: 2rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.btnSubmit1 {
+    width: 40%;
+    border-radius: 2rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.divF1 {
+    border: 2px solid black;
+    margin: 10% 10% 0 18%;;
+    padding: 20px 10px 30px 10px;
+    width: 500px;
+    height: 500px;
+    background-color:rgb(228, 227, 227);
+    border-radius:3%;
+}
+.a1{
+    color: white;
+}
+input{
+    height: 30px;
+    width: 250px;
+}
+.divF2{
+    border: 2px solid black;
+    margin: 10% 12% 0 33%;;
+    padding: 20px 10px 30px 10px;
+    width: 500px;
+    background-color:rgb(228, 227, 227);
+    border-radius:3%;
+}
